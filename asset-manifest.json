@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/predict-nationality/static/js/main.51bf04b5.chunk.js",
-    "main.js.map": "/predict-nationality/static/js/main.51bf04b5.chunk.js.map",
+    "main.js": "/predict-nationality/static/js/main.a1b66dc7.chunk.js",
+    "main.js.map": "/predict-nationality/static/js/main.a1b66dc7.chunk.js.map",
     "runtime~main.js": "/predict-nationality/static/js/runtime~main.9b11651b.js",
     "runtime~main.js.map": "/predict-nationality/static/js/runtime~main.9b11651b.js.map",
     "static/js/2.5de0a009.chunk.js": "/predict-nationality/static/js/2.5de0a009.chunk.js",
     "static/js/2.5de0a009.chunk.js.map": "/predict-nationality/static/js/2.5de0a009.chunk.js.map",
     "index.html": "/predict-nationality/index.html",
-    "precache-manifest.8fa5bb13e9e12ff27ecabeaadada801e.js": "/predict-nationality/precache-manifest.8fa5bb13e9e12ff27ecabeaadada801e.js",
+    "precache-manifest.106791788c0c6eb8b8c88255d8b51f85.js": "/predict-nationality/precache-manifest.106791788c0c6eb8b8c88255d8b51f85.js",
     "service-worker.js": "/predict-nationality/service-worker.js"
   }
 }
