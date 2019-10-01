@@ -1,26 +1,33 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import { createGlobalStyle } from 'styled-components';
+import Header from './components/Header';
+import MainComponent from './components/MainComponent'
+import Footer from './components/Footer'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+
+const GlobalStyle = createGlobalStyle`
+    body {
+        @import url('https://fonts.googleapis.com/css?family=Lobster|Luckiest+Guy|Roboto&display=swap');
+        font-family: font-family: 'Roboto', sans-serif;
+        margin: 0;
+        padding: 0;
+        font-size: 62.5%;
+        background-color: #0375B4;
+    }
+`;
+
+class App extends Component {
+  render() {
+    return(
+      <>
+        <GlobalStyle />
+        <Header />
+        <MainComponent />
+        <Footer />
+      </>
+    )
+  }
+
+};
 
 export default App;
