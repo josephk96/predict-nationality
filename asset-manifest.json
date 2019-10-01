@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/predict-nationality/static/js/main.88c25127.chunk.js",
+    "main.js.map": "/predict-nationality/static/js/main.88c25127.chunk.js.map",
+    "runtime~main.js": "/predict-nationality/static/js/runtime~main.9b11651b.js",
+    "runtime~main.js.map": "/predict-nationality/static/js/runtime~main.9b11651b.js.map",
+    "static/js/2.5de0a009.chunk.js": "/predict-nationality/static/js/2.5de0a009.chunk.js",
+    "static/js/2.5de0a009.chunk.js.map": "/predict-nationality/static/js/2.5de0a009.chunk.js.map",
+    "index.html": "/predict-nationality/index.html",
+    "precache-manifest.ec36bca38266c4b7c069c5f8c10e6656.js": "/predict-nationality/precache-manifest.ec36bca38266c4b7c069c5f8c10e6656.js",
+    "service-worker.js": "/predict-nationality/service-worker.js"
+  }
+}
